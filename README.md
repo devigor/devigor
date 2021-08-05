@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**devigor/devigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Igor! 👋
+My name is Igor Oliveira, i'm from Brazil! I'm **Front End Developer**, with focus in ReactJs and sometimes Full Stack! 
+I've been looking for a job in this dark times!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+## Skills 🛠 
+- ReactJs
+- TypeScript
+- GraphQL
+- CMS
+
+  
+## Find me in anywhere 🌎
+🚀 [Site](https://devigor.github.io/)\
+💻 [Blog](https://dev.to/devigor)\
+🐦 [Twitter](https://twitter.com/ig0r_oliveiraa)\
+💼 [LinkedIn](https://www.linkedin.com/in/igor-d-9119b8104)
+  
