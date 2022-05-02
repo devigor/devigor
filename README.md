@@ -1,13 +1,15 @@
 
 # Hi, I'm Igor! 👋
 My name is Igor Oliveira, i'm from Brazil! I'm **Front End Developer**, with focus in ReactJs and sometimes Full Stack! 
-I've been looking for a job in this dark times!
+Work at Nave.rs!
 
 
 
   
 ## Skills 🛠 
 - ReactJs
+- NextJs
+- Storybook
 - TypeScript
 - GraphQL
 - CMS
