@@ -8,7 +8,7 @@ I like solving problems through codes :)
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [devigor.tere@gmail.com](mailto:devigor.tere@gmail.com)
-*   🚀  I'm currently working on [Conexia Educacional](http://conexia.com.br)
+*   🚀  I'm currently working in [Conexia Educacional](http://conexia.com.br)
 *   ⚡  In secret my hobby is CyberSecurity and low level programming
 
 ### Skills 
